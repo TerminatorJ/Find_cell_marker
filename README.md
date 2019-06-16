@@ -8,7 +8,7 @@ This is a software for identifying the cell type for single cell analysing
 #In Linux
 Usage:
  ```Bash
- #Default
+ #Default and recommanded
  #The bigger of algorithm the more time consumed.
  python find_marker.py -t 20 -s 2
  
